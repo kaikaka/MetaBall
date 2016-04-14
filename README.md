@@ -1,4 +1,4 @@
 # MetaBall
 QQ红点消除
 
-![](/Users/yinxiangkai/Desktop/Germinal/Github/MetaBall/zb1.gif)
+![image](/Users/yinxiangkai/Desktop/Germinal/Github/MetaBall/30.gif)
